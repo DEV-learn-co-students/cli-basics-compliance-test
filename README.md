@@ -1,10 +1,3 @@
----
-language: bash
-tags: cli, terminal, basics, beginner
-type: lecture
-resources: 0
----
-
 ## Command Line Basics ~ 20 min
 
 Watch the video below if you are unfamiliar with the command line. It will walk you through the basic commands that you will use day to day as you learn to code.
